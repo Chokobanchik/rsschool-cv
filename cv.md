@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Document</title>
+    
 </head>
 <body>
     <h1 class="1">Nikita Yushin</h1>
@@ -13,6 +13,7 @@
     <li>Phone: +89961902858</li>
     <li>E-mail: yushin_nm@valfex.ru</li>
     <li>GitHub: https://github.com/chokobanchik</li>
+   <li> Discord: Mihail Torohov (@imihrutka)</li>
 </ul>
 <h2 class="1">About me</h2>
 <p>I am 24 years old, i work as a technical support. </p>
